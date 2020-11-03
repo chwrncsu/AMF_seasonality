@@ -1,0 +1,7 @@
+code1_database_prep.m:
+Prepares the data for the regression analysis
+It takes output0.mat as input and prepare output1.mat as output. Details of the data inside the mat files are provided in the code.
+
+code2_regression_analysis.m:
+Takes output1.mat as input and estimate the SLOPE of best-fit regression model.
+It also prepares the scatterplots between the input variables and changes in SI.
